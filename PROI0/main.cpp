@@ -7,6 +7,5 @@ int main()
 {
     hello m;
     m.print();
-
     return 0;
 }
